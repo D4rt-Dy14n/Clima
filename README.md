@@ -1,18 +1,21 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Clima
 
-## Our Goal
+This is an app from iOS 13 & Swift 5 course by Angela Yu (https://www.udemy.com/course/ios-13-app-development-bootcamp). 
+I added some extra functions: app shows not only city, temperature and precipitation symbol, but also min and max temp, feels like temp, wind speed and direction, humidity and pressure, sunrise and sunset time.
+Also, it works in landscape mode.
+
+## Description from Udemy below:
+
+### Our Goal
 
 It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
 
 
-## What you will create
+### What you will create
 
 By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What you will learn
+### What you will learn
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
