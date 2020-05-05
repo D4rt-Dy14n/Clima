@@ -1,7 +1,9 @@
 #  Clima
 
 This is an app from iOS 13 & Swift 5 course by Angela Yu (https://www.udemy.com/course/ios-13-app-development-bootcamp).
+
 App gets weather data from the OpenWeatherMap website (https://openweathermap.org/api).
+
 I added some extra functions: app shows not only city, temperature and precipitation symbol, but also min and max temp, feels like temp, wind speed and direction, humidity and pressure, sunrise and sunset time.
 Also, it works in landscape mode.
 
